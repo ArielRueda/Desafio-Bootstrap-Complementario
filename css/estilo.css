@@ -81,3 +81,20 @@ text-decoration:  underline;
  	list-style: none;
  	 
  }
+
+
+
+ #texto-cl{
+ 	position: relative;
+ 	top: 60px;
+ }
+
+#mapa-cl{
+	position: relative;
+	top: 35px;
+}
+
+.titulo-cl {
+	font-size: 1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
